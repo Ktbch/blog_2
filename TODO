@@ -1,0 +1,88 @@
+- market place
+this is application 
+create user account 
+this would reuqire the user to login authentication and authoriazation
+they would be two types of user account customer and a shop owner
+the markert place would have a landing page.. displaying 
+landing page would have a
+navbar
+hero.
+whats markert place about 
+benefits of market place
+faqs
+testimonials
+footer nav
+
+markert place is a list of online shops created by shop owners who are selling different products....
+shops would have stars as best rated shops... add shops to your favorite list
+you can search for shops by the name or search a product and it will bring the shops who are selling this particular products
+i want it to be like facebook that would load more onscrooll down
+and you can add filter on shops by price, products country etc..
+a chat system would be built in where customer would be able o communicate with shop owners to negotiate price and delivery details
+the shop owner would have an account where he can take money in 
+they would be an app for delivery which would contain people that delivers product 
+so when a customer tries to buy the product the money would be paid to the account in market place which would be pending 
+when the money is paid and pending the the shop owner hires a person that delivers from the delivery app the person comes.. 
+then the delivery man would start is journery on the app and would be tracked from is geolocaton on is app then would deliver the prodect and confirm on his app that the journey has ended the customer would confirm on is app that is has arrived then the pending money would be transferred
+
+
+
+
+... for blog
+
+create user space for data in database
+
+user details
+
+bio
+profile_picture
+intrests
+social_media
+username
+websites
+
+like to store likes
+
+posts to store posts 
+
+followers to store followers
+
+comments to store comments
+
+
+An individual post can have many likes but a like can only belong to a post
+An individual post can have many likes but a like can only belong to a post
+a user can have many followers and a follwer cna belong to many users 
+
+a user can have many posts but a post can only belong to one user
+
+
+# Wedenesday January 10 2024 tasks 
+
+- finish update password. done
+- create posts function. done
+- get all post. done
+- get a single post. done
+- create comments. 
+- get all comments.
+- like post. done 
+- get all likes. done
+
+
+# Thursday January 11 2024 tasks
+
+# backend..
+- create comments.done
+- get all comments.done
+- upload of images. still checking
+- verification of email
+- forget Password 
+
+# frontend..
+- enable autoriazation.
+- create user profile.
+- create editor. 
+- create post. 
+- display all posts. 
+- display a single posts.
+
